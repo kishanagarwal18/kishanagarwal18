@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋/h1>
+<h1 >Hi there 👋</h1>
 
 ## 🔅 About Me
 
@@ -55,7 +55,7 @@
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
