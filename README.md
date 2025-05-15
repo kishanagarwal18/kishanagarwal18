@@ -55,32 +55,32 @@
 
 ## 📫 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer">
-    <img style="display: block;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer">
-    <img style="display: block;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer">
-    <img style="display: block;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div style="margin: 0; padding: 0; line-height: 0; font-size: 0;">
+  <a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 4px;">
+    <img style="display: block; border: none;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 4px;">
+    <img style="display: block; border: none;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img style="display: block; border: none;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 ---
 
 ## 📊 GitHub Stats
 
-<p style="margin: 0; padding: 0; line-height: 1; font-size: 0;"><!--
-  --><a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><!--
-    --><img style="vertical-align: middle; border: none;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><!--
-  --></a><!--
-  --><a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><!--
-    --><img style="vertical-align: middle; border: none;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><!--
-  --></a><!--
-  --><a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><!--
-    --><img style="vertical-align: middle; border: none;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><!--
-  --></a><!--
---></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishanagarwal18&show_icons=true&theme=radical" alt="Kishan's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanagarwal18&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanagarwal18&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
