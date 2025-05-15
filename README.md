@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/yourinstahandle" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer">
