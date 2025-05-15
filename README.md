@@ -2,10 +2,10 @@
 
 ## 🔅 About Me
 
-- 🛠️ Currently working on AI/ML-driven financial and cybersecurity tools  
-- 🌱 Passionate about Data Science, Machine Learning, and Cryptography  
-- 🤝 Open to collaborating on impactful research and innovative projects  
-- 🧬 Always curious about how AI can improve real-world systems  
+- 🛠️ Currently working on AI/ML-driven financial and cybersecurity tools
+- 🌱 Passionate about Data Science, Machine Learning, and Cryptography
+- 🤝 Open to collaborating on impactful research and innovative projects
+- 🧬 Always curious about how AI can improve real-world systems
 - ✨ Fun fact: I love tackling real-world challenges through hackathons
 
 ---
@@ -45,9 +45,9 @@
 
 ## 🚀 Projects
 
-- 🔐 **Smart India Hackathon** – AI/ML models to detect cryptographic algorithms  
-- 💸 **WalletWise Web** – Personal finance tracker built with React & JWT  
-- 🌪 **Aapda Mitra** – GPS-based disaster response platform with real-time data integration  
+- 🔐 **Smart India Hackathon** – AI/ML models to detect cryptographic algorithms
+- 💸 **WalletWise Web** – Personal finance tracker built with React & JWT
+- 🌪 **Aapda Mitra** – GPS-based disaster response platform with real-time data integration
 
 [🔗 GitHub Projects](https://github.com/kishanagarwal18?tab=repositories)
 
@@ -56,24 +56,31 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer">
+    <img style="display: block;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer">
+    <img style="display: block;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer">
+    <img style="display: block;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanagarwal18&show_icons=true&theme=radical" alt="Kishan's GitHub Stats" />
-</p>
+<p style="margin: 0; padding: 0; line-height: 1; font-size: 0;"><!--
+  --><a href="https://www.linkedin.com/in/kishan--agarwal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><!--
+    --><img style="vertical-align: middle; border: none;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><!--
+  --></a><!--
+  --><a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><!--
+    --><img style="vertical-align: middle; border: none;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><!--
+  --></a><!--
+  --><a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><!--
+    --><img style="vertical-align: middle; border: none;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><!--
+  --></a><!--
+--></p>
 
 ---
 
