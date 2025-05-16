@@ -61,10 +61,10 @@
   </a>
   <a href="https://www.instagram.com/_kishan_ag" target="_blank" rel="noopener noreferrer" style="margin-right: 4px; display: inline-block;">
     <img style="display: block; border: none; margin: 0; padding: 0;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<!--   </a>
   <a href="https://github.com/kishanagarwal18" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img style="display: block; border: none; margin: 0; padding: 0;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  </a> -->
 </div>
 
 ---
