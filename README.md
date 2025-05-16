@@ -49,7 +49,6 @@
 - 💸 **WalletWise Web** – Personal finance tracker built with React & JWT
 - 🌪 **Aapda Mitra** – GPS-based disaster response platform with real-time data integration
 
-[🔗 GitHub Projects](https://github.com/kishanagarwal18?tab=repositories)
 
 ---
 
